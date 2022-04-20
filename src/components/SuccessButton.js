@@ -20,11 +20,11 @@ function SuccessButton() {
 
       <ButtonGroup variant="contained">
         <Button color="primary">
-          <AlarmOn />
+          <AlarmOn color="warning" />
           Set
         </Button>
         <Button color="error">
-          <Accessibility />
+          <Accessibility style={{ color: "black" }} />
           Ready
         </Button>
         <Button color="success">
