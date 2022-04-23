@@ -1,5 +1,5 @@
 import Header from "./components/Header";
-import TypoComponent from "./components/TypoComponent";
+// import TypoComponent from "./components/TypoComponent";
 
 function App() {
   return (
